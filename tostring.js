@@ -7,3 +7,6 @@ console.log(n);
 
 var n = num.toFixed();
 console.log(n);
+
+var n = num.toPrecision(5);
+console.log(n);
